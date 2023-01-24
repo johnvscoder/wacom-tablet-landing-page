@@ -1,0 +1,24 @@
+Research what is a landing page
+Explore some real and good landing pages
+Choose a product with resources available for making a 
+    landing page of it
+Research about web design
+Define what about is the landing page, the content,
+    the fonts, the colors, the images and the
+    structure of the page
+Recolect the resources tha I'll use
+Make the HTML of the landing page
+Make the CSS of the landing page
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,500;1,700&display=swap" rel="stylesheet">
+
+font-family: 'Open Sans', sans-serif;
+
+000
+FFF
+03001C
+301E67
+5B8FB9
+B6EADA
