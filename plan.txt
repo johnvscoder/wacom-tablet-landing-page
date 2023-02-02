@@ -16,9 +16,9 @@ Make the CSS of the landing page
 
 font-family: 'Open Sans', sans-serif;
 
-000
-FFF
-03001C
-301E67
-5B8FB9
-B6EADA
+#000
+#FFF
+#03001C
+#301E67
+#5B8FB9
+#B6EADA
